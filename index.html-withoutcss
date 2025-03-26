@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shanice Alexandra M. Perozo</title>
+</head>
+<body bgcolor="pink">
+
+    <center>
+        <table border="1" bgcolor="white" width="60%">
+            <tr>
+                <td>
+                    <center>
+                        <img src="shanice.jpg" alt="Shanice Alexandra M. Perozo" width="150">
+                        <h1>Shanice Alexandra M. Perozo</h1>
+                    </center>
+
+                    <h2>About Me</h2>
+                    <p>I am a Bachelor of Science in Information Systems (BSIS) student, passionate about technology and problem-solving. I am eager to finish my studies and build a good and better future for myself. Every day, I strive to improve my skills, overcome challenges, and gain knowledge that will help me succeed in the ever-evolving field of information systems. With determination and perseverance, I look forward to the opportunities ahead and the growth that comes with them.</p>
+
+                    <h2>Personal Information</h2>
+                    <table border="1" width="100%">
+                        <tr>
+                            <th>Birth Date</th>
+                            <td>October 30, 2004</td>
+                        </tr>
+                        <tr>
+                            <th>Age</th>
+                            <td>20 years old</td>
+                        </tr>
+                        <tr>
+                            <th>Sex</th>
+                            <td>Female</td>
+                        </tr>
+                        <tr>
+                            <th>Nationality</th>
+                            <td>Filipino</td>
+                        </tr>
+                        <tr>
+                            <th>Civil Status</th>
+                            <td>Single</td>
+                        </tr>
+                        <tr>
+                            <th>Address</th>
+                            <td>Isla Verde Padayhag Uno, San Carlos</td>
+                        </tr>
+                    </table>
+
+                    <h2>Contact Information</h2>
+                    <table border="1" width="100%">
+                        <tr>
+                            <th>Email</th>
+                            <td>pshanicealexandra@gmail.com</td>
+                        </tr>
+                        <tr>
+                            <th>Facebook</th>
+                            <td>Shanice Alexandra Perozo</td>
+                        </tr>
+                        <tr>
+                            <th>Instagram</th>
+                            <td>its.shanicea</td>
+                        </tr>
+                        <tr>
+                            <th>Phone</th>
+                            <td>09950162478</td>
+                        </tr>
+                    </table>
+
+                    <h2>Educational Background</h2>
+                    <table border="1" width="100%">
+                        <tr>
+                            <th>Level</th>
+                            <th>School</th>
+                        </tr>
+                        <tr>
+                            <td>Primary</td>
+                            <td>Sto. Niño Central Elementary School</td>
+                        </tr>
+                        <tr>
+                            <td>Transferred & Graduated</td>
+                            <td>Bomba Elementary School</td>
+                        </tr>
+                        <tr>
+                            <td>Secondary</td>
+                            <td>Zamboanga Del Sur National High School</td>
+                        </tr>
+                        <tr>
+                            <td>Transferred & Graduated</td>
+                            <td>Tukuran Technical Vocational High School</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+</body>
+</html>
